@@ -1,10 +1,8 @@
 # 🐍 Python Projects 🚀
-Welcome to **Python Projects**!
-This repository is a collection of hands-on, beginner-friendly Python projects created while learning Python from scratch. Explore, learn, and get inspired! 🌱
+Welcome to **Python Projects**! This repository is a collection of hands-on, beginner-friendly Python projects created while learning Python from scratch. Explore, learn, and get inspired! 🌱
 
 ## ✨ About This Repository
-🎉 **Why this repo?**
-As a passionate Python learner, I built these projects to practice, experiment, and showcase my progress. Whether you're just starting out or brushing up on your skills, you'll find something valuable and fun here.
+🎉 **Why this repo?** As a passionate Python learner, I built these projects to practice, experiment, and showcase my progress. Whether you're just starting out or brushing up on your skills, you'll find something valuable and fun here.
 
 🧑‍💻 **What's included?**
 - Mini projects 🎲
@@ -20,6 +18,7 @@ As a passionate Python learner, I built these projects to practice, experiment, 
 | Tic-Tac-Toe     | 2D Lists, Functions | 🟡 Intermediate |
 | To-Do List      | File I/O | 🟡 Intermediate |
 | Mad Libs        | String Manipulation, User Input | 🟢 Beginner |
+| Temperature Unit Converter | Unit conversion, User Input | 🟢 Beginner |
 
 *Projects coming soon!*
 
@@ -34,7 +33,6 @@ Clone the repository:
 ```
 git clone https://github.com/A-dityaTiwari/python-projects.git
 ```
-
 Pick a project folder, and run the script:
 ```
 python project_name.py
